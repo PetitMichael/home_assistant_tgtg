@@ -3,7 +3,7 @@ from __future__ import annotations
 import logging
 import voluptuous as vol
 
-from tgtg import TgtgClient
+from tgtgfav import TgtgClient
 
 from homeassistant.components.sensor import SensorEntity, PLATFORM_SCHEMA
 from homeassistant.core import HomeAssistant
@@ -12,7 +12,7 @@ from homeassistant.helpers.entity_platform import AddEntitiesCallback
 from homeassistant.helpers.typing import ConfigType, DiscoveryInfoType
 from homeassistant.helpers import config_validation as cv
 
-DOMAIN = "tgtg"
+DOMAIN = "tgtgfav"
 CONF_ITEM = "item"
 CONF_REFRESH_TOKEN = "refresh_token"
 CONF_COOKIE = "cookie"
