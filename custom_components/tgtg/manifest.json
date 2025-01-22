@@ -1,5 +1,5 @@
 {
-  "domain": "tgtg",
+  "domain": "tgtgfav",
   "name": "TooGoodToGoFav",
   "codeowners": ["@chouffy", "@tjorim", "@PetitMichael"],
   "documentation": "https://github.com/PetitMichael/home_assistant_tgtg",
