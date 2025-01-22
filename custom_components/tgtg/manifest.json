@@ -2,9 +2,9 @@
   "domain": "tgtg",
   "name": "TooGoodToGoFav",
   "codeowners": ["@chouffy", "@tjorim", "@PetitMichael"],
-  "documentation": "https://github.com/PetitMichael/home_assistant_tgtg",
+  "documentation": "https://github.com/PetitMichael/home_assistant_tgtg_fav",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/PetitMichael/home_assistant_tgtg/issues",
+  "issue_tracker": "https://github.com/PetitMichael/home_assistant_tgtg_fav/issues",
   "requirements": ["tgtg==0.18.1"],
-  "version": "5.6.4"
+  "version": "5.6.5"
 }
