@@ -3,7 +3,7 @@ from __future__ import annotations
 import logging
 import voluptuous as vol
 
-from tgtgfav import TgtgClient
+from tgtg import TgtgClient
 
 from homeassistant.components.sensor import SensorEntity, PLATFORM_SCHEMA
 from homeassistant.core import HomeAssistant
