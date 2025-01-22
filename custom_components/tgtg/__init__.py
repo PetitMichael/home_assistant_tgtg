@@ -1,1 +1,1 @@
-"""The tgtg component."""
+"""The tgtgfav component."""
