@@ -12,7 +12,7 @@ from homeassistant.helpers.entity_platform import AddEntitiesCallback
 from homeassistant.helpers.typing import ConfigType, DiscoveryInfoType
 from homeassistant.helpers import config_validation as cv
 
-DOMAIN = "tgtgfav"
+DOMAIN = "tgtg"
 CONF_ITEM = "item"
 CONF_REFRESH_TOKEN = "refresh_token"
 CONF_COOKIE = "cookie"
