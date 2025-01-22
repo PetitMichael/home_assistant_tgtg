@@ -1,5 +1,5 @@
 {
-    "name": "Chouffy/home_assistant_tgtg",
+    "name": "PetitMichael/home_assistant_tgtg",
     "image": "mcr.microsoft.com/vscode/devcontainers/python:0-3.10-bullseye",
     "postCreateCommand": "scripts/setup",
     "forwardPorts": [
